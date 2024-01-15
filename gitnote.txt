@@ -1,0 +1,15 @@
+Version control
+
+
+local repository <computer>
+^
+staging area 
+^
+Remote repository<github>
+
+pull / fetch
+
+add (command) to add files to staging area
+commit is for saving changes to the files added to the staging area
+
+
